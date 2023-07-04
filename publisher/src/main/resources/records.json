@@ -1,0 +1,30 @@
+[
+  {
+    "code": "tom",
+    "name": "Tom",
+    "age": 25,
+    "occupation": "streamer",
+    "gender": "MALE"
+  },
+  {
+    "code": "alice",
+    "name": "Alice",
+    "age": 17,
+    "occupation": "blogger",
+    "gender": "FEMALE"
+  },
+  {
+    "code": "tim",
+    "name": "Timothy",
+    "age": 29,
+    "occupation": "influencer",
+    "gender": "UNIDENTIFIED"
+  },
+  {
+    "code": "paul",
+    "name": "Paul",
+    "age": 27,
+    "occupation": "SMM",
+    "gender": "MALE"
+  }
+]
